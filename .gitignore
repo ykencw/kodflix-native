@@ -3,6 +3,7 @@
 platforms
 plugins
 *.log
+.idea
 
 # dependencies
 /node_modules
